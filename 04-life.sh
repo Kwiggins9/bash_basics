@@ -11,7 +11,7 @@ fi
 if [ "$hour" -ge 5 ] && [ "$hour" -lt 12 ]; then
   echo "Good morning!"
 else
-  echo "It’s not morning right now."
+  echo "It’s not evening right now."
 fi
 
 #  here are some other arithemetic comparison operators
